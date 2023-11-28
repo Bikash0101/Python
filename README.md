@@ -1,2 +1,1 @@
-HI PROJECT MEMBERS!
-Title of our C project : Mobile Banking or e-Banking.
+handcalcs is a latex based library to render mathematical calculations
